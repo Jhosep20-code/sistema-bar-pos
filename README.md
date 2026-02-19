@@ -252,7 +252,7 @@ Proyecto privado para uso comercial.
 
 ## 👥 Autor
 
-Desarrollado con 💛 para optimizar operaciones de bares y restaurantes.
+Desarrollado POR Jhosep Michael para optimizar operaciones de bares y restaurantes.
 
 ---
 
