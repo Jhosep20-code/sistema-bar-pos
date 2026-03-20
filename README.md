@@ -250,11 +250,6 @@ Este proyecto está en desarrollo activo. Para contribuir:
 
 Proyecto privado para uso comercial.
 
-## 👥 Autor
-
-Desarrollado POR Jhosep Michael para optimizar operaciones de bares y restaurantes.
-
----
-
-**v2.0.0** - Sistema de Propinas Implementado  
-**v1.0.0** - Release Inicial con Core Features
+### Autor
+**Jhosep Michael Yachi García (Jhosep)**  
+Estudiante de 9no ciclo de Ingeniería de Sistemas e Informática — UTP 
